@@ -1,4 +1,4 @@
-# mcp-puch
+# mcp-puch AI Server //Rahul_Shukla
 from typing import Annotated
 from fastmcp import FastMCP
 from fastmcp.server.auth.providers.bearer import BearerAuthProvider, RSAKeyPair
